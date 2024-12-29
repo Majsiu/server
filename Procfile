@@ -1,1 +1,1 @@
-worker: java -Xmx1024M -Xms1024M -jar paper-1.21.3-82.jar nogui
+worker: java -Xmx12288M -Xms12288M -jar paper-1.21.3-82.jar nogui
